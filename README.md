@@ -34,9 +34,6 @@ This project depends on Qt 5.9:
 http://doc.qt.io/qt-5/
 </a>
 
-Doxygen documentation:
-----------------------
-https://remizaidan.github.io/GeneticAlgorithm
 
 
 Compiling and Running:
