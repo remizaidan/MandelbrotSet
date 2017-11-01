@@ -1,3 +1,5 @@
+\page md_README
+
 MandelbrotSet
 =============
 
@@ -26,6 +28,7 @@ To download from the command-line:
 
 >    git clone https://github.com/remizaidan/MandelbrotSet
 
+
 Dependencies:
 -------------
 
@@ -34,6 +37,11 @@ This project depends on Qt 5.9:
 http://doc.qt.io/qt-5/
 </a>
 
+
+Documentation:
+--------------
+
+https://remizaidan.github.io/MandelbrotSet/
 
 
 Compiling and Running:

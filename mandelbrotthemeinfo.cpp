@@ -167,7 +167,6 @@ QString MandelbrotThemeInfo::getPaletteTypeName(PaletteType type)
     case Trigonometric: return "Trigonometric";
     case Randomized: return "Randomized";
     case Rainbow: return "Rainbow";
-    case Custom: return "Custom";
     case NoPalette: return "NoPalette";
     }
     return "Unknown";
@@ -181,6 +180,5 @@ MandelbrotThemeInfo::PaletteType MandelbrotThemeInfo::getPaletteType(QString nam
     if(name == "Trigonometric") return Trigonometric;
     if(name == "Randomized") return Randomized;
     if(name == "Rainbow") return Rainbow;
-    if(name == "Custom") return Custom;
     return NoPalette;
 }
