@@ -1,7 +1,5 @@
-\page md_README
-
-MandelbrotSet
-=============
+Mandelbrot Set GUI {#md_README}
+==================
 
 Introduction:
 -------------
